@@ -56,6 +56,6 @@ Once the setup is complete, run the simulator with the following command:
 python main.py
 ```
 
-##Project Vision
+## Project Vision
 
 This project explores a paradigm shift in civil engineering: instead of fighting wind-induced vibrations, what if we harnessed them? Inspired by how trees flexibly sway to dissipate wind energy, this simulator provides a digital lab to test how piezoelectric materials can turn this "problem" into a sustainable power source for smart buildings.
