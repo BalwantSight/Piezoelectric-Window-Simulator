@@ -4,7 +4,7 @@
 
 This project is an interactive simulator that explores a conceptual prototype of a piezoelectric panel designed for building windows. Inspired by biomimicry, it models how wind-induced vibrations, typically seen as an engineering problem, can be harnessed as a source of clean, complementary energy in urban environments.
 
-![Simulator Screenshot](https://i.ibb.co/4nFZhkd3/Captura-de-pantalla-2025-09-09-a-la-s-12-44-03-p-m.png)
+![Simulator Screenshot]([https://i.ibb.co/4nFZhkd3/Captura-de-pantalla-2025-09-09-a-la-s-12-44-03-p-m.png](https://i.imgur.com/f6Lyleu.gif))
 
 ## Key Features
 
